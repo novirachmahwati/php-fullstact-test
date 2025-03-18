@@ -2,6 +2,8 @@
 
 Repositori ini dibuat untuk mengerjakan tes teknis posisi **IT Fullstack Developer** di **PT Aneka Search Indonesia**. Proyek ini bertujuan membangun aplikasi web sederhana menggunakan **Laravel** sebagai backend, **PostgreSQL** sebagai database, **Redis** sebagai cache system, dan **Amazon S3** untuk manajemen file storage.
 
+**Jawaban ada di: app/Http/Controllers/MyClientController.php**
+
 ## Fitur Utama
 
 - **CRUD** data klien
